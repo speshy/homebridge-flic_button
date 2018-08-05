@@ -1,0 +1,17 @@
+{
+  "name": "homebridge-flic_button",
+  "version": "1.0.0",
+  "description": "Convert flic button clicks to homebridge toggle switch on/off",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "rxjs": "^6.2.1"
+  },
+  "keywords": ["homebridge-plugin"],
+  "engines": {
+      "homebridge": ">=0.3.0",
+          "node": ">=0.12.0"
+  }
+}
